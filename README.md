@@ -14,7 +14,9 @@ placing among the **Top 100 worldwide** (selected from **1,000+ submissions** ac
 ---
 
 ### ⚖️ Self-Evaluation
-In the spirit of *transparency*, I’m **self-auditing forecast accuracy** using **Brier Scores** — a statistical measure of calibration.
+In the spirit of *transparency*, I’m **self-auditing forecast accuracy** using **Brier Scores** — a statistical measure of calibration. Updates will be reflected on the app: 
+
+https://bridgewater-x-global-citizen-challenge-src.streamlit.app/
 
 - **Total Questions:** 20 (binary)  
 - **Brier Score Range:** 0 (perfect) → 40 (worst)  
